@@ -1,0 +1,6 @@
+C:\Users\Payam\Desktop\Reflection2\Repository\bin\Debug\Repository.dll
+C:\Users\Payam\Desktop\Reflection2\Repository\bin\Debug\Repository.pdb
+C:\Users\Payam\Desktop\Reflection2\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\Payam\Desktop\Reflection2\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Payam\Desktop\Reflection2\Repository\obj\Debug\Repository.dll
+C:\Users\Payam\Desktop\Reflection2\Repository\obj\Debug\Repository.pdb

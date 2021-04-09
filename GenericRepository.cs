@@ -10,6 +10,7 @@ namespace Repository
     {
         public string Add(T entity)
         {
+            System.Windows.Forms.MessageBox.Show(entity.ToString());
             return entity.ToString();
         }
 
